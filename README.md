@@ -44,15 +44,5 @@ The first player to get 3 marks in a row wins
 
 If all cells are filled and no winner → it's a draw 🤝
 
-🧩 Board Layout
-
-1 | 2 | 3
-
---+---+--
-
-4 | 5 | 6
---+---+--
-
-7 | 8 | 9
 
 💻 Example Gameplay
