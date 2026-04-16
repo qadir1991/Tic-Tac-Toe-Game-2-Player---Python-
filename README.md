@@ -24,7 +24,7 @@ Python 3.x
 
 Clone the repository:
 
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone https://github.com/qadir1991/Tic-Tac-Toe-Game-2-Player---Python-.git
 
 Go to the project folder:
 
