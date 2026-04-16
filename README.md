@@ -46,3 +46,5 @@ If all cells are filled and no winner → it's a draw 🤝
 
 
 💻 Example Gameplay
+![output images]()
+![output images]()
